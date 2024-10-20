@@ -1,0 +1,30 @@
+{
+    "common": {
+        "datestamp": "20.10.2024",
+        "timestamp": "02: 49: 19"
+    },
+    "inverters": [
+        {
+            "CID": 0,
+            "DT": 0,
+            "E_Total": 7613610.0483333329,
+            "ID": 1,
+            "P": 2924.706298828125
+        }
+    ],
+    "site": {
+        "BatteryStandby": false,
+        "E_Day": null,
+        "E_Total": 7613610.0483333329,
+        "E_Year": null,
+        "MLoc": 0,
+        "Mode": "meter",
+        "P_Akku": null,
+        "P_Grid": -1232.78,
+        "P_Load": -1675.31765625,
+        "P_PV": 3017.677978515625,
+        "rel_Autonomy": 100.0,
+        "rel_SelfConsumption": 57.608713815007398
+    },
+    "version": "12"
+}
